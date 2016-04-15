@@ -1,7 +1,7 @@
 {
   "name": "hubot-flipanything",
   "description": "A hubot script to flip things.....",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Ali-Akber Saifee <ali@indydevs.org>",
   "license": "MIT",
 
