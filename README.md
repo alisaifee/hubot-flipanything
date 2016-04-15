@@ -1,7 +1,5 @@
 # Hubot: hubot-flipanything
 
-[![Build Status](https://travis-ci.org/alisaifee/hubot-flipanything.png?branch=master)](https://travis-ci.org/alisaifee/hubot-flipanything)
-
 Sometimes you need to flip a table - and everything else!
 
 See [`src/flipanything.coffee`](src/flipanything.coffee) for full documentation.
