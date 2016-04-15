@@ -40,5 +40,6 @@ Hubot> (╯°□°)╯︵ ǝǝɟᴉɐsᴉlɐ ︵ ╯(°□° ╯)
 ```
 
 ## Credits
+
 [hubot-fliptable](https://github.com/hubot-scripts/hubot-fliptable)
 
