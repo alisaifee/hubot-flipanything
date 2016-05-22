@@ -95,6 +95,8 @@ module.exports = (robot) ->
     "&": "⅋",
     "_": "‾"
   }
+  for k,v of CHAR_MAP
+    CHAR_MAP[v]=k
   reversed = (sentence) ->
     return ((if CHAR_MAP[item] then CHAR_MAP[item] else item) for item in sentence.split('').reverse()).join('')
 
